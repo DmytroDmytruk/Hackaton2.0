@@ -8,6 +8,8 @@ services:
     ports:
       - "3306"
 
+
+
   application:
     image: dmytrodmytruk/hackaton-back:latest
     ports:
